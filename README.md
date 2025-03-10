@@ -11,11 +11,8 @@ This demo project is a conversational AI application that leverages modern techn
 ## Demo Video
 
 Watch the demo video below to see the application in action:
+[Demo Video](https://www.youtube.com/embed/lsAHOsqR8SQ)
 
-<video width="640" height="360" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Technologies Used
 
